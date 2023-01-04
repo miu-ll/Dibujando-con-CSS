@@ -4,7 +4,7 @@ Creo firmemente en que una de las mejores formas de aprender es jugando o buscan
 Por eso cuando empecé a aprender CSS pensé "hey, con esto se puede dibujar", y ¡Efectivamente! buscando en internet vi que muchos solían dibujar con CSS así que aquí va mi primer intento de dibujo 🌱
 
 <a href="https://codepen.io/CdMiu/pen/PoBGbQG">
-  <img align="right" width="450" margin-top="40" src="https://im2.ezgif.com/tmp/ezgif-2-daf50d4187.gif">
+  <img align="right" width="450" margin-top="40" src="https://i.ibb.co/h7YVHdt/ezgif-5-1fcb0ec654.gif%22%20alt=%22ezgif-5-1fcb0ec654">
 </a>
 
 Lo recomendable creo que es escoger una imagen pre existente y por sobre todo <strong>simple</strong>, si es tu primera vez probando este método de dibujo. Peeeeero, me gustan los retos así que quise crear mi propia imagen desde cero con varios elementos (no me arrepiento porque eso me ayudó a aprender mucho).
