@@ -13,6 +13,6 @@ Así que... Si es tu primera vez dibujando con css o incluso si ya tienes práct
 
 <strong>Por ejemplo:</strong> Para dibujar el duende de mi imagen, dado que tiene formas triangulares, tuve que investigar cómo hacer estas formas y así es como aprendí a usar clip-path, una propiedad que en su momento no conocía. Así mismo, aprendí a hacer pequeñas animaciones con la propiedad animation. Cosas que seguro no hubiera aprendido, o al menos no tan rápido de no haberme retado.
 
-¡Anímate! Retate a dibujar, profundizar y mejorar tus conocimientos en CSS. Dibujar con código también te ayudará a pensar soluciones de formas creativas, algo que como programador estoy segura te ayudará mucho. ¡Mucha suerte dibujando con código! 🐳
+¡Anímate! Retate a dibujar, profundizar y mejorar tus conocimientos en CSS. Dibujar con código también te ayudará a pensar soluciones de formas creativas, algo que como programador estoy segura te ayudará mucho. ¡Mucha suerte dibujando con código! 
 
-<strong>Pdt:</strong> Si te ha gustado mi dibujo dejáme una estrellita, así me animo a hacer más
+<strong>Pdt:</strong> Si te ha gustado mi dibujo dejáme una estrellita, así me animo a hacer más 🐳
