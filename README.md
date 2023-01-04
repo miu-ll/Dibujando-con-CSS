@@ -15,4 +15,4 @@ Así que... Si es tu primera vez dibujando con css o incluso si ya tienes práct
 
 ¡Anímate! Retate a dibujar, profundizar y mejorar tus conocimientos en CSS. Dibujar con código también te ayudará a pensar soluciones de formas creativas, algo que como programador estoy segura te ayudará mucho. ¡Mucha suerte dibujando con código! 🐳
 
-Pdt: Si te ha gustado mi dibujo dejáme una estrellita, así me animo a hacer más
+<strong>Pdt:</strong> Si te ha gustado mi dibujo dejáme una estrellita, así me animo a hacer más
