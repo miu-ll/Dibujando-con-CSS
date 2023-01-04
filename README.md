@@ -7,41 +7,13 @@ Por eso cuando empecé a aprender CSS pensé "hey, con esto se puede dibujar", y
   <img align="right" width="450" margin-top="40" src="https://im2.ezgif.com/tmp/ezgif-2-daf50d4187.gif">
 </a>
 
-Primero que elegir una imagen y luego descomponerla en formas geométricas sencillas. Ahora toca estructurarlas por capas pues no todas estarán en el mismo plano y.... a dibujar, bueno, a codear.
+Lo recomendable creo que es escoger una imagen pre existente y por sobre todo <strong>simple</strong>, si es tu primera vez probando este método de dibujo. Peeeeero, me gustan los retos así que quise crear mi propia imagen desde cero con varios elementos (no me arrepiento porque eso me ayudó a aprender mucho).
 
-Si echas un vistazo en la red descubrirás la de cosas increíbles que se pueden dibujar con css. La recomendación es empezar con cositas sencillas. Pasito a paso se hace el camino.
+Así que... Si es tu primera vez dibujando con css o incluso si ya tienes práctica, yo te recomendaría que te retes, si bien empezar con una imagen sencilla puede darte confianza, lo cierto es que aprendes más con los retos, porque implica investigar aquello que no sabes. 
 
-Drawing with CSS es el repositorio donde iré guardando mis avances. Por ahora son archivos con imagenes sencillas pero irá creciendo a medida que yo también crezca como desarrolladora.🚀
+Por ejemplo: Para dibujar el duende de mi imagen, dado que tiene formas triangulares, tuve que investigar cómo hacer estas formas y así es como aprendí a usar clip-path, una propiedad que en su momento no conocía. Así mismo, aprendí a hacer pequeñas animaciones con la propiedad animation. Cosas que seguro no hubiera aprendido, o al menos no tan rápido de no haberme retado.
 
-
-
-
-Primero hice un boceto a lapiz; es decir, me gusta complicarme la vida pero tampoco tanto como para crear algo desde cero. Sí quería hacer algo único, así que primero hice el boceto.
-
-Por eso, si recién estas por intentarlo, te recomiendo escoger una imagen ya existente o dibujar una propia (puedes hacer un simple boceto, no tiene que ser super elaborado).
-
-Recuerda que en css se trabaja en mayoría con formas geométricas sencillas (elipses, cuadrados), así que procura no complicarte tanto al menos en un inicio.
-También es importante la estructura, 
-
-
-
-Entonces, si es menos práctico que otras opciones... ¿por qué elegir la opción de dibujar con CSS? Desde mi punto de vista, hay varias respuestas para esta pregunta. Las detallo a continuación:
-
-Ayuda a entender, profundizar y mejorar nuestros conocimientos de CSS.
-En ejemplos complejos, te fuerza a aprender a organizar CSS (imprescindible).
-Te obliga a buscar vías alternativas o diferentes de diseñar o crear prototipos.
-Te reta a exprimir al máximo CSS y te fuerza a buscar soluciones.
-¡Es entretenido, divertido y sorprendente!
-
-
-En primera como lo comente anteriormente, creo que nos puede ayudar a desestresarnos y sobre todo aumentar nuestra creatividad, y la segunda razón es la pregunta que viene justo después de esta.
-
-
-
-Si echas un vistazo en la red descubrirás la de cosas increíbles que se pueden dibujar con css. La recomendación es empezar con cositas sencillas. Pasito a paso se hace el camino.
-
-Drawing with CSS es el repositorio donde iré guardando mis avances. Por ahora son archivos con imagenes sencillas pero irá creciendo a medida que yo también crezca como desarrolladora.🚀
-
+¡Anímate! Retate a dibujar, profundizar y mejorar tus conocimientos en CSS. Dibujar con código también te ayudará a pensar soluciones de formas creativas, algo que como programador estoy segura te ayudará mucho. ¡Mucha suerte dibujando con código! 🐳
 
 
 
