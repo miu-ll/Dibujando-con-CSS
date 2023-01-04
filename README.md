@@ -3,7 +3,7 @@
 Creo firmemente en que una de las mejores formas de aprender es jugando o buscando algo que te guste en el proceso.
 Por eso cuando empecé a aprender CSS pensé "hey, con esto se puede dibujar", y ¡Efectivamente! buscando en internet vi que muchos solían dibujar con CSS así que aquí va mi primer intento de dibujo 🌱
 
-<img width="100%" height="auto" src="https://im2.ezgif.com/tmp/ezgif-2-daf50d4187.gif">
+<img align="left" width="450" src="https://im2.ezgif.com/tmp/ezgif-2-daf50d4187.gif">
 
 ## ¿Cómo lo hice?
 
